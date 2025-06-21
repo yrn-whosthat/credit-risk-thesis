@@ -1,6 +1,6 @@
 ## 📦 Project Overview
 
-This repository contains the full codebase and workflow for my Master's thesis on credit risk modeling. It includes data preprocessing, model training (with SMOTE and Random Forest), evaluation, and visualizations.
+This repository contains the full codebase and workflow for my Bachelor's thesis on credit risk modeling. It includes data preprocessing, model training (with SMOTE and Random Forest), evaluation, and visualizations.
 
 ## 📁 Project Structure
 
