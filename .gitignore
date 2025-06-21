@@ -1,0 +1,19 @@
+# Ignore model and data outputs
+models/
+*.pkl
+*.joblib
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore notebook outputs
+.ipynb_checkpoints/
+
+# macOS and general OS junk files
+.DS_Store
+
+# Zip or temporary files
+*.zip
+*.tar.gz
+*.tmp
