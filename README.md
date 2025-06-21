@@ -4,7 +4,7 @@ This repository contains the full codebase and workflow for my Bachelor's thesis
 
 ## 📁 Project Structure
 
-- `data/` – Dataset (not included in repo)
+- `data/` – Dataset (included in repo)
 - `src/` – Scripts for training
 - `notebooks/` – Jupyter notebooks for visualization
 - `figures/` – Graphs and charts (can be generated)
