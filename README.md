@@ -16,3 +16,5 @@ Install all required packages using:
 
 ```bash
 pip install -r requirements.txt
+
+[Download trained model (rf_model.pkl)](https://drive.google.com/your_link)
