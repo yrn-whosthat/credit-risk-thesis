@@ -12,9 +12,9 @@ This repository contains the full code, dataset, and model pipeline used for my 
 
 ## ⚙️ Requirements
 
+[Download trained model (rf_model.pkl)]([https://drive.google.com/your_link](https://drive.google.com/file/d/160yixnhATwCeIbym8rpSB2gQvQidQbOb/view?usp=sharing))
+
 Install all required packages using:
 
 ```bash
 pip install -r requirements.txt
-
-[Download trained model (rf_model.pkl)](https://drive.google.com/your_link)
